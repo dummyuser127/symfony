@@ -1,0 +1,8 @@
+{
+  "name": "Symfony",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "1fb48017"
+}
